@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a99c42f0843bc204497cc3778d7cd0ae, type: 3}
+  m_Name: PrefabsRef
+  m_EditorClassIdentifier: 
+  NormalCanvas: {fileID: 0}
+  MlCanvas: {fileID: 7757275729226272211, guid: dba32b6d09ea15743ba645033fc2e457,
+    type: 3}
+  MlNoneMovingCanvas: {fileID: 7757275729226272211, guid: 055dd025e39fed94aae89db4331d2b8f,
+    type: 3}
+  LinePrefab: {fileID: 3708501373538941632, guid: 983b1fd216aab8c42abb5404bc89894d,
+    type: 3}
+  LineEndObj: {fileID: 2330811049489253780, guid: 0e18cea5a455a2f48be26aea8d88f4a0,
+    type: 3}
